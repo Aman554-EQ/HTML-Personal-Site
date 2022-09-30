@@ -1,0 +1,10 @@
+body{
+    background: papayawhip;
+}
+hr{
+    border-style: none;
+    border-top-style: none;
+    border-color: grey;
+    border-width: 10px;
+    width: 30%;
+}
